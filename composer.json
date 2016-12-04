@@ -1,0 +1,23 @@
+{
+    "name": "rundiz/serial-number-generator",
+    "type": "library",
+    "description": "Generate serial number or random string that is very easy.",
+    "keywords": ["serial number", "serialnumber", "cdkey", "cd key", "key code", "random string", "auth code"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vee W.",
+            "email": "kawewong@gmail.com",
+            "homepage": "http://rundiz.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rundiz\\SerialNumberGenerator\\" : "Rundiz/SerialNumberGenerator"
+        }
+    }
+}
