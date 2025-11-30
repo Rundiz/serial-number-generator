@@ -1,7 +1,7 @@
 # Serial number generator
 
 Generate serial number or key or random string with number. 
-Tested on PHP 8.4.
+Tested on PHP 8.5.
 
 [![Latest Stable Version](https://poser.pugx.org/rundiz/serial-number-generator/v/stable)](https://packagist.org/packages/rundiz/serial-number-generator)
 [![License](https://poser.pugx.org/rundiz/serial-number-generator/license)](https://packagist.org/packages/rundiz/serial-number-generator)
